@@ -1,0 +1,2 @@
+[console_scripts]
+med-image-xai = med_image_xai.cli:app
